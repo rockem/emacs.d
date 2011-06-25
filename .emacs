@@ -28,12 +28,12 @@
 ;; (require 'es-emms)
 (require 'es-nxml)
 (require 'es-cedet)
-(require 'es-org)
+;; (require 'es-org)
 (require 'es-etags)
 (require 'es-ruby)
 ;;(require 'es-jdee)
 
-(require 'seinquote)
+;; (require 'seinquote)
 (require 'es-git)
 
 ;; All done
