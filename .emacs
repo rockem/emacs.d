@@ -12,6 +12,7 @@
 
 ;; Personal customizations
 (require 'es-generic)
+(require 'es-nxhtml)
 (require 'es-ido)
 (require 'es-shortcuts)
 (require 'es-paren)
@@ -26,7 +27,8 @@
 (require 'es-project)
 (require 'es-perl)
 ;; (require 'es-emms)
-(require 'es-nxml)
+;;(require 'es-nxml)
+;; (require 'es-nxhtml)
 (require 'es-cedet)
 ;; (require 'es-org)
 (require 'es-etags)

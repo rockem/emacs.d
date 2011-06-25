@@ -9,7 +9,7 @@
   (setq mouse-wheel-scroll-amount '(0.01)))
 
 ;; Prevent anti aliasing
-;; (setq mac-allow-anti-aliasing nil)
+(setq mac-allow-anti-aliasing nil)
 
 ;; Mac-style key-binding mode. Aquamacs-like
 ;; (mac-key-mode)
