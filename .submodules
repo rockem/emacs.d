@@ -1,0 +1,6 @@
+[submodule "lisp/rinari"]
+	path = lisp/rinari
+	url = https://github.com/eschulte/rinari.git
+[submodule "lisp/rspec-mode]
+	path = lisp/rspec-mode
+	url = https://github.com/pezra/rspec-mode.git
