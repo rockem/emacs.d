@@ -9,9 +9,11 @@
 (add-to-list 'load-path (expand-file-name "~/emacs.d/lisp-personal"))
 
 (setq site-lisp-path (expand-file-name "~/emacs.d/lisp/"))
+(setq site-personal-path (expand-file-name "~/emacs.d/lisp-personal/"))
 
 ;; Personal customizations
 (require 'es-generic)
+(require 'es-mac)
 (require 'es-nxhtml)
 (require 'es-ido)
 (require 'es-shortcuts)
@@ -33,6 +35,9 @@
 ;; (require 'es-org)
 (require 'es-etags)
 (require 'es-ruby)
+(require 'es-flymake)
+(require 'es-yasnippet)
+(require 'es-cucumber)
 ;;(require 'es-jdee)
 
 ;; (require 'seinquote)

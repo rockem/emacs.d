@@ -1,0 +1,9 @@
+#contributer: Eli Segal <eli.segal@gmail.com
+#name: Given a known starting condition
+#group: cucumber
+# --
+
+Given /^I have $0 "([^\"]*)"$/ do |arg1|
+  pending
+end
+
